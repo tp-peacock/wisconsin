@@ -2,7 +2,7 @@
 
 Preliminary analysis of the Diagnostic Wisconsin Breast Cancer Database
 
-## installation
+## Installation
 
 ### Python and Package Management
 
@@ -33,3 +33,13 @@ This command creates a virtual environment in the `.venv` directory. You can act
 ```bash
 source .venv/bin/activate
 ```
+
+## Investigation
+
+### Exploratory Data Analysis
+
+Exploratory data analysis (EDA) can be found in `notebooks/eda.ipynb`
+
+### Classification Experiments
+
+Classification experiments, including feature analysis and model optimisation, can be found in `notebooks/classification.ipynb`
